@@ -15,11 +15,12 @@ A classic Tetris game built with **Svelte**, **TypeScript**, and **HTML5 Canvas*
 
 ## Technologies Used
 
-- **Svelte** – Frontend framework for building reactive UI
-- **TypeScript** – Strongly typed JavaScript
-- **HTML5 Canvas** – Rendering the game board
-- **JavaScript** – Game logic and interactivity
-- **TailwindCSS** – Styling and responsive design
+- **🟠 Svelte** – Frontend framework for building reactive UI
+- **🔵 TypeScript** – Strongly typed JavaScript
+- **🟡 HTML5 Canvas** – Rendering the game board
+- **🟢 JavaScript** – Game logic and interactivity
+- **🟣 TailwindCSS** – Styling and responsive design
+
 
 ## Demo
 You can try the game online: [Insert your demo link here]
